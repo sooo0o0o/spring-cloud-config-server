@@ -1,0 +1,4 @@
+server:
+  port: 80803
+  servlet:
+    context-path: /service3
